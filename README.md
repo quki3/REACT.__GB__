@@ -5,5 +5,5 @@
 - Es declarativo
 - 
 *instalacion*
-
+- `npm install react react-dom`
 **
